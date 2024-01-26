@@ -39,7 +39,7 @@ pip install pyodbc requests
 
 ## Autor
 
-Juan Cruz Gimenez
+[Juan Cruz Gimenez](https://github.com/Jcgimenez)
 
 ## Licencia
 
