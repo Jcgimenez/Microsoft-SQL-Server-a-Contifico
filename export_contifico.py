@@ -35,7 +35,6 @@ url_contifico = ''
 api_key = ''
 
 # ITERAR SOBRE LOS RESULTADOS Y REALIZAR UNA SOLICITUD POST PARA CADA ELEMENTO
-# PARA CLIENTES
 for fila in resultados:
     # Convertir la fila a un diccionario
     fila_dict = dict(zip([column[0] for column in cursor.description], fila))
