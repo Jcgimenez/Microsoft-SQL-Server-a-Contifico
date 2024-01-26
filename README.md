@@ -17,6 +17,7 @@ Antes de ejecutar el script, asegúrate de configurar correctamente los siguient
 
 - `url_contifico`: URL del endpoint en Contifico para la solicitud POST.
 - `api_key`: Clave de API personalizada para la autorización.
+- `datos_a_enviar`: JSON que se enviara como informacion. Ver documentacion de contifico.
 
 ## Requisitos
 
